@@ -10,6 +10,6 @@ Connect Discovery also in the IBM Cloud to get real time number of cases around 
 
 <img src="images/Architecture.png">
 
-Alternatively, your app can be deployed on Slack as well. The slackbot link - 
+Alternatively, your app can be deployed on Slack as well. The slackbot link - https://app.slack.com/client/T0146M525CK/D0146F36UCS
 
 
