@@ -6,4 +6,5 @@ Replace the API key and URL for the Watson, Text to Speech and Speech to Text se
 app > src > main > res > values > config.xml to make the app work.
 Connect Discovery also in the IBM Cloud to get real time number of cases around the world.
 
+[]!(images/Architecture.png)
 
